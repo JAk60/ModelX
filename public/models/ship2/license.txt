@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese PLAN 051 Class Destoryer/051型火炮鱼雷舰（遵义舰）
+* source:	https://sketchfab.com/3d-models/chinese-plan-051-class-destoryer051-5143eafdd3d340c5a18548e389dba7f9
+* author:	全斗焕 (https://sketchfab.com/lxyun_2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese PLAN 051 Class Destoryer/051型火炮鱼雷舰（遵义舰）" (https://sketchfab.com/3d-models/chinese-plan-051-class-destoryer051-5143eafdd3d340c5a18548e389dba7f9) by 全斗焕 (https://sketchfab.com/lxyun_2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
