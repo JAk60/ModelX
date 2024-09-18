@@ -24,8 +24,10 @@ console.log('actions', actions)
       const size = boundingBox.getSize(new Vector3()).length();
       gl.setClearColor("#000000 "); 
       // Adjust the camera to fit the model
-      camera.position.set(center.x, center.y, size + 8 );
+      // camera.position.set(center.x, center.y, size + 8 );
+      camera.position.set(center.x + size * 2, center.y, center.z);
       camera.lookAt(center);
+      camera.zoom = 3.0; // Set the zoom level (increase for zoom-in, decrease for zoom-out)
       camera.updateProjectionMatrix();
     }
   }, [group, camera, gl]);
