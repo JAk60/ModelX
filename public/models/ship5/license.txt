@@ -1,0 +1,11 @@
+Model Information:
+* title:	French BB Richelieu
+* source:	https://sketchfab.com/3d-models/french-bb-richelieu-b5f481360236439cad0295bdd46da6b8
+* author:	CloudHub (https://sketchfab.com/cloudhub)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "French BB Richelieu" (https://sketchfab.com/3d-models/french-bb-richelieu-b5f481360236439cad0295bdd46da6b8) by CloudHub (https://sketchfab.com/cloudhub) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

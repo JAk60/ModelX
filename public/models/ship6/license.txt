@@ -1,0 +1,11 @@
+Model Information:
+* title:	USS Cleveland (CL-55)
+* source:	https://sketchfab.com/3d-models/uss-cleveland-cl-55-6267ab80b28745a68d6d1357e1e0543a
+* author:	bsterling (https://sketchfab.com/bsterling)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "USS Cleveland (CL-55)" (https://sketchfab.com/3d-models/uss-cleveland-cl-55-6267ab80b28745a68d6d1357e1e0543a) by bsterling (https://sketchfab.com/bsterling) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

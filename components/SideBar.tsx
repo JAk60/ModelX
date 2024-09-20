@@ -18,6 +18,11 @@ import * as z from 'zod'
 const filesInFolder = [
   'ship1',
   'ship2',
+  'ship3',
+  'ship4',
+  'ship5',
+  'ship6',
+  'ship7',
 ]
 
 const formSchema = z.object({

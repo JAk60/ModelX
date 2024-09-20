@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese Beiyang Navy Aircraft Carrier HAIHUNG 海鸿
+* source:	https://sketchfab.com/3d-models/chinese-beiyang-navy-aircraft-carrier-haihung-9ed2983c3e0e4c47a274fb2c5a499068
+* author:	全斗焕 (https://sketchfab.com/lxyun_2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese Beiyang Navy Aircraft Carrier HAIHUNG 海鸿" (https://sketchfab.com/3d-models/chinese-beiyang-navy-aircraft-carrier-haihung-9ed2983c3e0e4c47a274fb2c5a499068) by 全斗焕 (https://sketchfab.com/lxyun_2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
