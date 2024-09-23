@@ -23,6 +23,7 @@ const filesInFolder = [
   'ship5',
   'ship6',
   'ship7',
+  'ship9',
 ]
 
 const formSchema = z.object({
